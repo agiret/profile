@@ -79,7 +79,7 @@ a:hover{
   font-size: 45px;
 }
 .btn-valid{
-  background-color: #0DDF3B;
+  background-color: #0DC73B;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
   color: white;
   padding: 10px;
@@ -87,7 +87,7 @@ a:hover{
   font-family: 'Istok Web', sans-serif;
 }
 .btn-valid:hover{
-  background-color: #0DC73B;
+  background-color: #0DDF3B;
   color: white;
 }
 
